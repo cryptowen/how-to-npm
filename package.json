@@ -1,0 +1,25 @@
+{
+  "name": "huwenchao",
+  "version": "1.1.1",
+  "description": "how-to-npm learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/huwenchao/how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "huwenchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huwenchao/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/huwenchao/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
